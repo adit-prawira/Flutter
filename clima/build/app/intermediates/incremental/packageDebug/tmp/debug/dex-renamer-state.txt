@@ -1,0 +1,4 @@
+#Fri Jan 01 23:31:08 AEDT 2021
+base.0=/Users/adityaaaap/Desktop/ProgExer/flutter/Clima-Flutter/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

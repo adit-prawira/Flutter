@@ -1,0 +1,4 @@
+#Mon Dec 28 12:45:24 AEDT 2020
+base.0=/Users/adityaaaap/Desktop/ProgExer/flutter/bmi-calculator-flutter/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
