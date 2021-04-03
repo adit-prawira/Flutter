@@ -1,0 +1,4 @@
+#Wed Dec 23 17:16:35 AEDT 2020
+base.0=/Users/adityaaaap/Desktop/ProgExer/flutter/quizzler-flutter/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
